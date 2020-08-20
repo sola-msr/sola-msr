@@ -1,4 +1,10 @@
-### Hi there 👋
+### Qiita
+
+- https://qiita.com/sola-msr
+
+### teratail
+
+- https://teratail.com/users/sola-msr
 
 <!--
 **sola-msr/sola-msr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
