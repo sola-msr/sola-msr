@@ -1,8 +1,8 @@
-### Qiita
+## Qiita
 
 - https://qiita.com/sola-msr
 
-### teratail
+## teratail
 
 - https://teratail.com/users/sola-msr
 
