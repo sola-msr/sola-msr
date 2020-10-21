@@ -2,6 +2,10 @@
 
 - https://qiita.com/sola-msr
 
+## Zenn
+
+- https://zenn.dev/sola_msr
+
 ## teratail
 
 - https://teratail.com/users/sola-msr
